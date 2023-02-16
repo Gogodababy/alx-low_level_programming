@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- *  main - this is the entry point of the program
+ *  main - Entry point
  *
- *  Returns: 0 everytime
+ *  Description: this function is the entry point of the program and it prints a message using puts function
+ *
+ *  Returns: 0 (Success)
  */
 int main(void)
 {
