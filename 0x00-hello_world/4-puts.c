@@ -2,9 +2,9 @@
 /**
  *  main - Entry point
  *
- *  Description: this function is the entry point of the program and it prints a message using puts function
+ *  Description: this function  prints a message using puts function
  *
- *  Returns: 0 (Success)
+ *  Return: 0 (Success)
  */
 int main(void)
 {
