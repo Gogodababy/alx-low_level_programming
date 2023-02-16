@@ -1,9 +1,9 @@
 #include <stdio.h>
-/*
-*Entry function 
-*Return is 0 
-*
-*/
+/**
+ *  main
+ *
+ *  Returns 0 
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
