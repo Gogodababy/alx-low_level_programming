@@ -2,7 +2,6 @@
 
 /**
  * main - print numbers of the base 16 in lower,
- * 
  * Return: Always 0 (Success)
  */
 int main(void)
